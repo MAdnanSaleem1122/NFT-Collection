@@ -40,7 +40,7 @@ You would need to create a new next app. Your folder structure should look somet
 - NFT-Collection
        - hardhat-tutorial
        - my-app
-       ```
+```
 To create this my-app, in the terminal point to NFT-Collection folder and type
 ```
 npx create-next-app@latest
